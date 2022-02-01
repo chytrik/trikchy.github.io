@@ -1,0 +1,5 @@
+baseURL = 'https://trikchy.github.io/'
+languageCode = 'en-us'
+title = 'Patrik Site'
+theme = "terminal"
+publishDir = "docs"
